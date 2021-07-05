@@ -92,7 +92,7 @@ python main_train.py \
     --trial 0
 ```
 
-## Eval 
+# Knn Evaluation 
 ```
 python main_knn_eval.py --method simclr --arch resnet18 --dataset cifar100 \
 --saved_path ../CL_logs/cifar100-simclr_resnet18-None-0
