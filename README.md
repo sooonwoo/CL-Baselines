@@ -1,5 +1,5 @@
 # CL-Baselines
-This is a Pytorch implementation of contrastive Learning(CL) baselines. 
+This is a Pytorch implementation of contrastive Learning(CL) baselines(SimCLR, MoCov2, SimSiam). 
 
 You can 
 1) run recent CL baselines on multi-scale datasets(CIFAR10/100, ImageNet-100, ImageNet, COCO).
