@@ -101,4 +101,4 @@ python main_knn_eval.py --method simclr --arch resnet18 --dataset cifar100 \
 # References
 (1) SimCLR: https://github.com/HobbitLong/SupContrast \
 (2) MoCo: https://github.com/facebookresearch/moco \
-(3) SimSiam: https://github.com/facebookresearch/simsiam \
+(3) SimSiam: https://github.com/facebookresearch/simsiam 
