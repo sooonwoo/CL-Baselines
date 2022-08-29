@@ -87,7 +87,7 @@ python main_train.py \
     --method simsiam --arch resnet50 \
     --dataset Imagenet-100 --batch_size 256 --eval_batch_size 512 --num_workers 8 \
     --data_path [your imagenet-folder] \ 
-    --epochs 800 --knn_eval_freq 20 --lr 0.06 --wd 1e-4 \
+    --epochs 200 --knn_eval_freq 20 --lr 0.06 --wd 1e-4 \
     --dist-url 'tcp://localhost:10001' --multiprocessing-distributed --world-size 1 --rank 0 \
     --trial 0
 ```
